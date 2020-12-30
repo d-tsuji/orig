@@ -3,5 +3,5 @@ package orig
 import "fmt"
 
 func Print() {
-	fmt.Println("orig")
+	fmt.Println("forked")
 }
